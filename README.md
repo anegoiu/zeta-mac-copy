@@ -1,2 +1,2 @@
 # zeta-mac-copy
-Small React App
+Recreated he Zetamac math game so I could quicly learn Js + React.
