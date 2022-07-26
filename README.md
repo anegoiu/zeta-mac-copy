@@ -1,2 +1,2 @@
 # zeta-mac-copy
-Recreated he Zetamac math game so I could quicly learn Js + React.
+Using the basic create-react-app environment to quicly learn Js + React.
